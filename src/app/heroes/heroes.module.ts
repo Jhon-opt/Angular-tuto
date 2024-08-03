@@ -7,7 +7,7 @@ import { CommonModule } from "@angular/common";
 @NgModule({
   declarations: [
     ListComponent,
-    HeroComponent,
+    HeroComponent
   ],
   exports:[
     ListComponent,
